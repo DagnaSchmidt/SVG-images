@@ -4,3 +4,10 @@
     padding: 0;
     margin: 0;
 }
+
+//container// 
+.svg-container {   
+    &__item {
+        margin: 12px;
+    }
+}
